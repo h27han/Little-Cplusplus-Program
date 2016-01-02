@@ -1,2 +1,4 @@
-# Sorting-Algorithm
-List of different sorting algorithm in C++
+# C++ programs
+Currently have:
+Sorting
+Nim-balance
