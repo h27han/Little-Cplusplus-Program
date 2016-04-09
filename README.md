@@ -2,8 +2,8 @@
 
 **Currently have:**
 
-* [Sorting](sorting.md)
-* [Nim-balance](nim.md)
+* [Sorting](sorting.cpp)
+* [Nim-balance](nim.cc)
 
 Sorting
 
