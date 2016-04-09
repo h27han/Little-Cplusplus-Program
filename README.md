@@ -1,11 +1,12 @@
-# C++ programs
-Currently have:
+# Mini C++ programs for fun
+
+**Currently have:**
 
 Sorting
 
 Nim-balance
 
-To do:
+**To do:**
 
 CO optimizing
 
